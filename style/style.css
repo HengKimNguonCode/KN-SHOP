@@ -114,7 +114,7 @@ body{
 .main-contain{
     width: 100%;
     height: 88vh;
-    background-image: url(./Public/img/Fullset.webp);
+    background-image: url(../Public/img/Fullset.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
